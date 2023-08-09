@@ -138,14 +138,28 @@ main .circlePulso {
     }
 }
 
+@media screen and (max-width:822px) {
+    main .img-container img {
+
+    }
+    main .container .copy-container {
+        margin-bottom: 35rem;
+    }
+}
 @media screen and (max-width:769px) {
     main .circle {
         top: -20em;
         right: -17em;
     }
+    main .container .copy-container {
+        margin-bottom: 32rem;
+    }
 }
 
-@media screen and (max-width:575px) {
+@media screen and (max-width:600px) {
+    main .container .copy-container {
+        margin-bottom: 15rem;
+    }
     main .img-container {
         width: 60%;
     }
@@ -197,10 +211,16 @@ main .circlePulso {
     .img-container .title{
         left: -20px;
     }
+    main .container .copy-container {
+        margin-bottom: 8rem;
+    }
 }
 @media screen and (max-width:321px) {
     main .circle {
         right: -13em;
+    }
+    main .container .copy-container {
+        margin-bottom: 5rem;
     }
 }
 
