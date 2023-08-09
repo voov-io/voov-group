@@ -4,7 +4,7 @@
 }
 .line{
     min-height: 18rem;
-    max-height: 18rem;
+    /*max-height: 18rem;*/
     position: relative;
     overflow: hidden;
     transition: all ease 1s;
@@ -60,4 +60,19 @@
 .colortextSkyblue{
     color:var(--colorBluesky)!important;
 
+}
+
+@media screen and (max-width: 487px) {
+    .copy-services{
+        top: 75%;
+    }
+    .line:hover .copy-services {
+        top: 0;
+    }
+    .line {
+        min-height: 14.9rem;
+    }
+    .line:hover {
+        min-height: 19.9rem;
+    }
 }
