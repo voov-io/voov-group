@@ -41,3 +41,4 @@ for (let i = 0; i < animation_elements.length; i++) {
 
 	observer.observe(el);
 }
+

@@ -28,7 +28,7 @@
             </div>
         </div>
         <div class="copyright center">
-            <a href="https://www.linkedin.com/company/voov-marketing-agency/" targer="_blank"><img loading="lazy" width="35" height="35"  class="icon"src="<?php echo IconsPath?>/linkedin_icon.webp" alt="linkedin icon"></a>
+            <a href="https://www.youtube.com/channel/UCEk9xQfrf919ad3UBvZmxsQ" targer="_blank"><img loading="lazy" width="35" height="35"  class="icon"src="<?php echo IconsPath?>/Youtube icon.svg" alt="Youtube icon"></a>
         </div>
         <hr>
         <div class="copyright">

@@ -59,7 +59,9 @@
                             <li><a class="subitem" href="<?php echo home_url();?>/skill-cloud-staffing">Skill Cloud Staffing</a></li>
                         </ul>
                     </li>
-                    <li class="item"><a  <?php if(!is_front_page()):?> style="color:black!important" <?php endif?> href="<?php echo home_url();?>/blog">Company Resources</a></li>
+                    <li class="item withsubitems"><a  <?php if(!is_front_page()):?> style="color:black!important;" <?php endif?> href="<?php echo home_url();?>/blog">Blog</a>
+    
+                    </li>
                     <li class="item"><a href="<?php echo home_url();?>/contact" class="btn yellow">Contact Us</a></li>
                 </ul>
                 <button class="McButton" id="McButton"  aria-label="hambuerguer menu">
