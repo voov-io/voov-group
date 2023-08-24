@@ -109,7 +109,7 @@
         </div>
 </section>
 <section id="WyVOOV" class="container section-4-WyVOOV">
-        <h2 class="title">Why VOOV Is Your Real Estate <br>Businesses Virtual Solution</h2>
+        <h2 class="title">Why VOOV Is Your<br>Businesses Virtual Solution</h2>
         <div class="container grid center">
             <article class="container-solution">
                 <img width="50" height="50" loading="lazy" src="<?php echo IconsPath?>/Virtual Business Solutions.webp" alt="">
@@ -180,18 +180,65 @@
     <div class="container">
         <h2 class="title">Sample of Brands & Clients</h2>
         <p>Our clients are middle-size and large companies in different industries or niche markets, such as technology, real estate agencies, title companies, insurance firms, escrow financial services, mortgage firms, construction, and more.  We serve clients across the United States and Latin America.</p>
-        <picture id="contentscroll" class="grid reviews">
-            <img width="450" height="359" loading="lazy" src="<?php echo ImagesPath?>/Rocket-title-logo.webp" alt="Rocket title logo">
-            <img width="450" height="359" loading="lazy" src="<?php echo ImagesPath?>/805s-escrow-logo.webp" alt="805 escrow logo">
-            <img width="450" height="359" loading="lazy" src="<?php echo ImagesPath?>/Atlantic-sothebys.webp" alt="Atlantic sothebys logo">
-            <img width="450" height="359" loading="lazy" src="<?php echo ImagesPath?>/Units-logo.webp" alt="Units logo">
-            <img width="450" height="359" loading="lazy" src="<?php echo ImagesPath?>/TrueRealtyLogo (1).webp" alt="TrueRealty logo">
-            <img width="450" height="359" loading="lazy" src="<?php echo ImagesPath?>/McGuire Team.webp" alt="McGuire Team logo">
-            <img width="450" height="359" loading="lazy" src="<?php echo ImagesPath?>/sg-associates-logo-s.webp" alt="sg associates logo">
-            <!--<a id="prev" class="prev">❮</a>
-            <a id="next"  class="next">❯</a>-->
-        </picture>
     </div>
+    <div class="slider">
+	<div class="slide-track">
+		<div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/Rocket-title-logo.webp" alt="Rocket title logo"  height="100" width="250"/>
+		</div>
+		<div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/805s-escrow-logo.webp" alt="805 escrow logo" height="100" width="250"/>
+		</div>
+        <div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/Units-logo.webp" alt="Units logo" height="100" width="250"/>
+		</div>
+		<div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/Atlantic-sothebys.webp" alt="Atlantic sothebys logo" height="100" width="250"/>
+		</div>
+	
+		<div class="slide">
+			<img oading="lazy" src="<?php echo ImagesPath?>/TrueRealtyLogo (1).webp" alt="TrueRealty logo" height="100" width="250"/>
+		</div>
+		<div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/McGuire Team.webp" alt="McGuire Team logo" height="100" width="250"/>
+		</div>
+        <div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/sg-associates-logo-s.webp" alt="sg associates logo" height="100" width="250"/>
+		</div>
+		<div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/Rocket-title-logo.webp" alt="Rocket title logo"  height="100" width="250"/>
+		</div>
+		<div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/805s-escrow-logo.webp" alt="805 escrow logo" height="100" width="250"/>
+		</div>
+        <div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/Units-logo.webp" alt="Units logo" height="100" width="250"/>
+		</div>
+		<div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/Atlantic-sothebys.webp" alt="Atlantic sothebys logo" height="100" width="250"/>
+		</div>
+		
+		<div class="slide">
+			<img oading="lazy" src="<?php echo ImagesPath?>/TrueRealtyLogo (1).webp" alt="TrueRealty logo" height="100" width="250"/>
+		</div>
+		<div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/McGuire Team.webp" alt="McGuire Team logo" height="100" width="250"/>
+		</div>
+        <div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/sg-associates-logo-s.webp" alt="sg associates logo" height="100" width="250"/>
+		</div>
+        <div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/Rocket-title-logo.webp" alt="Rocket title logo"  height="100" width="250"/>
+		</div>
+        <div class="slide">
+			<img loading="lazy" src="<?php echo ImagesPath?>/805s-escrow-logo.webp" alt="805 escrow logo" height="100" width="250"/>
+		</div>
+	</div>
+</div>
 
 </section>
+
+<br>
+<br>
+<br>
 <?php get_footer();?>
